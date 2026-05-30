@@ -1,0 +1,501 @@
+claim_status,video_id,author_id,verified_status,author_ban_status,video_duration_sec,video_view_count,video_like_count,video_share_count,video_comment_count,video_transcription_text
+claim,1,2956,not verified,active,50,362644,62667,15760,4339,Some people believe this fact.
+opinion,2,8023,not verified,active,158,159116,5147,4617,388,This video discusses a trending topic.
+opinion,3,4907,not verified,active,119,498685,75076,22666,2074,"In my opinion, this is interesting."
+opinion,4,1807,not verified,active,156,387732,27426,18303,10667,This is a claim about health.
+claim,5,9378,not verified,active,155,15997,3164,347,190,Here is what I think about this.
+claim,6,5827,verified,active,14,341895,34947,6662,4750,This is a claim about health.
+claim,7,5524,not verified,active,135,98605,3279,4622,791,Here is what I think about this.
+opinion,8,3284,not verified,active,50,417127,61645,14216,7808,This video discusses a trending topic.
+opinion,9,6313,not verified,active,39,317677,22673,2123,5926,Some people believe this fact.
+opinion,10,1757,not verified,active,46,344710,68750,1059,4281,I think this product is great.
+claim,11,5887,not verified,active,17,225942,44320,6477,2558,"In my opinion, this is interesting."
+opinion,12,4854,not verified,banned,45,145643,19613,6783,3900,Here is what I think about this.
+opinion,13,4558,not verified,banned,178,108255,3752,4586,1378,Here is what I think about this.
+claim,14,1961,not verified,active,89,260298,36572,8880,4117,This video discusses a trending topic.
+claim,15,4847,verified,active,72,487679,13496,3812,4843,"In my opinion, this is interesting."
+claim,16,7726,verified,banned,48,451157,7028,6071,10841,Some people believe this fact.
+claim,17,4575,not verified,active,110,58005,9649,2546,761,Some people believe this fact.
+opinion,18,3418,not verified,active,125,217322,10834,2163,3559,Here is what I think about this.
+opinion,19,5198,not verified,banned,173,189784,15565,2779,1725,I think this product is great.
+claim,20,2001,verified,active,23,43541,8488,320,1291,I think this product is great.
+opinion,21,6244,not verified,active,153,23387,1730,798,237,This is a claim about health.
+claim,22,8119,not verified,active,109,356124,23622,16828,8397,"In my opinion, this is interesting."
+claim,23,5066,not verified,banned,82,179980,33199,2552,2514,"In my opinion, this is interesting."
+claim,24,3845,not verified,banned,49,85457,2652,2076,664,Some people believe this fact.
+opinion,25,9849,not verified,banned,119,144129,22242,4624,3515,This is a claim about health.
+opinion,26,6316,not verified,active,126,64028,12660,3199,726,This video discusses a trending topic.
+claim,27,1422,not verified,active,145,119246,21612,731,3127,"In my opinion, this is interesting."
+opinion,28,7715,not verified,active,27,317875,42537,8083,8781,This is a claim about health.
+opinion,29,5266,verified,active,38,155930,10863,3098,4065,This is a claim about health.
+claim,30,8549,not verified,active,53,179761,10483,7806,535,Here is what I think about this.
+opinion,31,7316,not verified,active,17,44638,7394,1085,1073,Some people believe this fact.
+claim,32,3710,not verified,active,70,484814,85892,3121,6553,This is a claim about health.
+claim,33,9644,not verified,active,23,495602,54433,15902,13115,This might be a claim worth checking.
+opinion,34,9069,not verified,active,143,177558,10018,6883,3526,I think this product is great.
+opinion,35,2657,not verified,active,21,20567,647,23,521,This might be a claim worth checking.
+opinion,36,3541,not verified,active,36,422955,11235,18224,6760,I think this product is great.
+claim,37,7763,not verified,active,80,57804,8475,584,981,Experts say this might be true.
+claim,38,4075,not verified,active,127,370965,33321,10406,2241,Some people believe this fact.
+opinion,39,4164,not verified,active,119,3754,683,80,89,Here is what I think about this.
+opinion,40,3053,verified,active,54,27044,4071,980,371,This video discusses a trending topic.
+claim,41,9479,not verified,active,29,67260,3116,1290,1076,This might be a claim worth checking.
+opinion,42,6737,not verified,active,159,66912,8472,2918,1604,This might be a claim worth checking.
+claim,43,4217,not verified,active,158,256695,23807,9444,4817,Experts say this might be true.
+opinion,44,2447,not verified,active,37,8706,1041,285,66,I think this product is great.
+claim,45,7009,not verified,active,138,271038,40718,10845,5021,Here is what I think about this.
+opinion,46,1607,not verified,active,146,411253,67107,15605,5516,Experts say this might be true.
+claim,47,5552,verified,active,108,346130,58949,955,5242,Some people believe this fact.
+opinion,48,2764,not verified,active,166,344086,20044,6999,960,Here is what I think about this.
+opinion,49,3671,not verified,active,160,182684,2906,8514,1439,Some people believe this fact.
+claim,50,7519,not verified,active,148,29725,4472,212,293,This is a claim about health.
+opinion,51,4962,not verified,active,4,136998,4138,5085,3008,"In my opinion, this is interesting."
+opinion,52,4177,not verified,active,179,104555,7301,5097,242,This is a claim about health.
+opinion,53,4722,not verified,banned,79,261486,2804,930,3515,Some people believe this fact.
+opinion,54,5906,not verified,active,134,271640,37898,9351,7571,This might be a claim worth checking.
+opinion,55,8263,not verified,banned,92,56447,2356,1351,289,Here is what I think about this.
+opinion,56,6054,not verified,active,91,363748,48925,10686,5987,I think this product is great.
+claim,57,1808,verified,active,96,160878,31923,833,3864,This video discusses a trending topic.
+claim,58,1725,verified,active,9,350343,8340,1088,9946,I think this product is great.
+claim,59,8701,not verified,active,97,41321,1018,1391,946,Here is what I think about this.
+claim,60,2216,not verified,active,110,253113,18900,10464,5612,This is a claim about health.
+claim,61,5051,not verified,active,76,233103,40702,9165,5860,This video discusses a trending topic.
+claim,62,3197,not verified,banned,41,458311,23351,12670,6642,Here is what I think about this.
+opinion,63,3806,verified,active,143,415872,32634,2450,10215,Some people believe this fact.
+claim,64,9970,verified,active,161,55147,1269,1914,122,This might be a claim worth checking.
+claim,65,1972,not verified,active,73,91396,14166,1174,2548,I think this product is great.
+opinion,66,6634,not verified,active,58,442882,38786,20214,6383,Some people believe this fact.
+claim,67,8483,not verified,active,172,475584,73362,20010,8320,This video discusses a trending topic.
+opinion,68,3123,not verified,active,44,300931,54674,10761,2749,This video discusses a trending topic.
+claim,69,9790,not verified,active,38,244839,13276,11628,5580,I think this product is great.
+opinion,70,1224,not verified,active,86,456162,74539,1158,1891,Some people believe this fact.
+opinion,71,2814,not verified,active,120,21727,461,805,574,Experts say this might be true.
+claim,72,2106,not verified,active,9,239423,43283,4113,6030,Some people believe this fact.
+claim,73,1124,not verified,active,56,95081,12707,4316,765,This video discusses a trending topic.
+opinion,74,4246,not verified,active,131,384865,67775,5413,9491,Some people believe this fact.
+opinion,75,3931,not verified,banned,174,241130,2419,8805,5791,This might be a claim worth checking.
+opinion,76,3971,not verified,active,122,68056,2866,2994,1340,Here is what I think about this.
+opinion,77,3017,verified,active,175,134153,11276,407,1671,This is a claim about health.
+claim,78,8415,not verified,active,108,165268,13569,3385,1586,This might be a claim worth checking.
+claim,79,3415,not verified,active,49,167807,8906,6435,1424,Experts say this might be true.
+claim,80,4096,not verified,banned,125,235821,19456,5492,2575,"In my opinion, this is interesting."
+opinion,81,2609,not verified,active,143,80102,2762,1129,2186,Here is what I think about this.
+opinion,82,1717,not verified,active,121,472794,41806,5565,1973,This is a claim about health.
+claim,83,4561,not verified,active,152,156570,25434,1165,3946,"In my opinion, this is interesting."
+claim,84,7782,not verified,active,120,76865,7765,3305,904,I think this product is great.
+claim,85,2048,not verified,banned,23,162728,2183,4750,2702,"In my opinion, this is interesting."
+claim,86,9307,not verified,active,139,67695,6097,321,1641,Here is what I think about this.
+opinion,87,8905,verified,active,28,431116,6537,8513,11537,Some people believe this fact.
+opinion,88,6578,verified,active,11,117235,22695,2229,1366,Here is what I think about this.
+opinion,89,2620,verified,banned,17,478115,16359,4735,7139,This might be a claim worth checking.
+opinion,90,7548,verified,active,12,440917,63695,9850,5999,"In my opinion, this is interesting."
+claim,91,8381,verified,banned,124,108777,21192,1878,257,This video discusses a trending topic.
+opinion,92,5780,not verified,active,123,19033,3177,337,195,This is a claim about health.
+opinion,93,4792,verified,active,127,141877,20269,5279,2107,This is a claim about health.
+opinion,94,3941,not verified,active,172,166923,28293,1993,2255,"In my opinion, this is interesting."
+opinion,95,6695,not verified,active,74,26832,5273,870,596,This is a claim about health.
+opinion,96,7401,not verified,active,154,194509,24907,5633,2484,This video discusses a trending topic.
+opinion,97,7197,not verified,active,51,377869,43925,10896,5933,Here is what I think about this.
+opinion,98,6450,verified,active,156,145016,18760,4856,2034,This is a claim about health.
+claim,99,9975,verified,active,93,282017,31362,7860,6412,"In my opinion, this is interesting."
+claim,100,9432,verified,active,39,40372,5275,1779,1056,Experts say this might be true.
+claim,101,6874,verified,active,70,89464,8541,3051,1511,Experts say this might be true.
+opinion,102,2553,not verified,banned,52,146451,7542,4071,3530,I think this product is great.
+claim,103,2012,verified,active,154,117322,3853,4887,1209,This might be a claim worth checking.
+opinion,104,9378,verified,banned,21,167823,3857,5152,2879,This is a claim about health.
+opinion,105,2881,verified,banned,102,362226,21744,5529,4225,This might be a claim worth checking.
+claim,106,7799,not verified,active,62,220894,4144,2462,3003,Here is what I think about this.
+opinion,107,5586,not verified,active,169,267254,31472,2262,6015,"In my opinion, this is interesting."
+opinion,108,9622,not verified,active,91,447557,28611,20172,11943,This is a claim about health.
+claim,109,9430,not verified,active,148,274231,45703,9816,1481,Some people believe this fact.
+claim,110,7447,not verified,active,149,416978,10051,19569,8243,This video discusses a trending topic.
+claim,111,3345,verified,active,166,344761,18274,10536,6309,This is a claim about health.
+claim,112,1075,not verified,active,71,100483,14946,2431,534,This is a claim about health.
+opinion,113,6877,not verified,active,177,9596,1187,37,76,This might be a claim worth checking.
+opinion,114,7785,verified,active,51,234627,5221,7956,2512,This might be a claim worth checking.
+opinion,115,5922,not verified,active,110,107539,18999,3175,717,Experts say this might be true.
+opinion,116,9090,not verified,active,163,18313,3235,906,161,This video discusses a trending topic.
+opinion,117,3330,verified,active,121,375319,27314,4773,3562,"In my opinion, this is interesting."
+claim,118,5686,not verified,active,151,197621,14757,5336,2252,This is a claim about health.
+opinion,119,2902,not verified,active,152,114914,22743,3780,2641,Experts say this might be true.
+opinion,120,5670,not verified,active,178,23705,3057,772,427,This might be a claim worth checking.
+opinion,121,8143,verified,active,39,198436,22016,5656,5876,I think this product is great.
+opinion,122,3059,not verified,banned,145,335589,56798,13111,4568,This video discusses a trending topic.
+claim,123,1140,not verified,active,165,103892,6670,1147,2400,Experts say this might be true.
+claim,124,2789,not verified,active,162,209717,19198,7666,5536,Experts say this might be true.
+claim,125,1016,not verified,active,13,264167,16081,8286,5550,Here is what I think about this.
+opinion,126,1464,not verified,active,140,119654,19137,5373,1619,Experts say this might be true.
+opinion,127,5471,not verified,active,80,190868,22701,8114,4409,Here is what I think about this.
+opinion,128,2827,not verified,active,79,80073,10824,1316,616,This is a claim about health.
+claim,129,9711,verified,active,155,354341,20529,5150,3958,This is a claim about health.
+opinion,130,6956,not verified,active,4,64429,3340,3163,1115,This might be a claim worth checking.
+opinion,131,1089,not verified,active,66,104195,10710,2796,1887,I think this product is great.
+claim,132,5815,not verified,active,37,192699,28931,8751,504,Some people believe this fact.
+claim,133,3851,not verified,active,9,33848,3716,305,963,Some people believe this fact.
+claim,134,3843,not verified,active,87,431020,6983,14007,9269,Some people believe this fact.
+opinion,135,7543,verified,active,148,408595,71514,16622,6488,This might be a claim worth checking.
+claim,136,6901,not verified,active,69,452880,10094,21476,12738,Here is what I think about this.
+opinion,137,1969,not verified,active,44,289910,55548,5082,4144,This might be a claim worth checking.
+opinion,138,2094,not verified,active,120,68099,1006,2487,2005,This video discusses a trending topic.
+claim,139,7124,not verified,active,127,429276,60933,11762,7016,This video discusses a trending topic.
+opinion,140,8347,not verified,active,169,487949,12500,1937,2537,I think this product is great.
+opinion,141,4195,verified,active,171,69122,12651,2406,1618,This video discusses a trending topic.
+claim,142,2404,not verified,active,26,147159,14457,5123,3091,Some people believe this fact.
+opinion,143,7940,not verified,active,48,48868,1765,2277,1155,Some people believe this fact.
+claim,144,5290,not verified,active,21,119119,8904,3021,3411,This might be a claim worth checking.
+claim,145,4982,verified,active,70,416441,17205,5114,9887,Experts say this might be true.
+claim,146,6555,not verified,active,104,357430,15158,1137,6833,This video discusses a trending topic.
+opinion,147,8954,not verified,active,44,268787,51107,5743,6989,This might be a claim worth checking.
+opinion,148,5713,not verified,active,34,486275,46000,7680,10139,This is a claim about health.
+claim,149,4092,not verified,active,169,298871,47781,11444,4013,This is a claim about health.
+claim,150,5159,not verified,active,111,404221,53165,7421,10832,Experts say this might be true.
+opinion,151,7308,verified,active,38,109079,15109,5181,895,Experts say this might be true.
+claim,152,8478,not verified,active,99,327841,11481,15786,7215,Experts say this might be true.
+claim,153,9476,not verified,active,166,16029,873,503,427,This might be a claim worth checking.
+opinion,154,5933,not verified,active,133,246353,39289,11456,5537,This is a claim about health.
+opinion,155,5926,not verified,active,75,407442,79225,15597,8769,Some people believe this fact.
+claim,156,4969,verified,active,138,194718,11665,5412,4492,Experts say this might be true.
+opinion,157,3965,not verified,active,99,453819,27954,4463,6817,I think this product is great.
+opinion,158,5319,not verified,active,125,421947,42131,9903,11171,Here is what I think about this.
+claim,159,9975,not verified,active,72,371602,73179,10584,2859,This might be a claim worth checking.
+opinion,160,8108,not verified,active,171,372528,22762,16143,2073,Experts say this might be true.
+claim,161,4939,not verified,active,15,68926,6018,1694,688,Here is what I think about this.
+opinion,162,1044,not verified,active,51,137069,24587,6166,2314,"In my opinion, this is interesting."
+opinion,163,2810,not verified,active,62,317650,3352,10813,5176,Experts say this might be true.
+opinion,164,5566,not verified,active,132,340373,5975,2625,8501,This is a claim about health.
+claim,165,2909,verified,active,7,443031,55278,22042,5904,This video discusses a trending topic.
+opinion,166,7364,verified,active,174,42092,7677,1129,655,Experts say this might be true.
+claim,167,3581,not verified,active,29,324683,17981,6558,770,This might be a claim worth checking.
+claim,168,1691,verified,active,162,459293,45576,15292,6187,This video discusses a trending topic.
+claim,169,1931,verified,active,151,152889,14614,968,3078,"In my opinion, this is interesting."
+opinion,170,8910,not verified,active,10,168933,16870,5438,411,I think this product is great.
+opinion,171,7382,verified,active,52,13428,1722,341,132,This video discusses a trending topic.
+claim,172,4406,not verified,banned,69,175006,17369,3662,1369,Here is what I think about this.
+opinion,173,9339,verified,active,46,246627,23434,11763,783,Some people believe this fact.
+claim,174,2032,not verified,active,127,245439,24572,6529,3784,Experts say this might be true.
+opinion,175,2311,not verified,active,60,141330,17279,1658,1001,"In my opinion, this is interesting."
+claim,176,9579,not verified,active,5,57775,6472,1357,1317,"In my opinion, this is interesting."
+opinion,177,4121,verified,active,88,212652,36636,9792,5474,This video discusses a trending topic.
+claim,178,2873,not verified,active,72,488163,9472,4700,8433,I think this product is great.
+opinion,179,7781,not verified,active,132,267613,45047,3073,7891,This is a claim about health.
+claim,180,4748,not verified,active,174,290998,49570,476,4252,Experts say this might be true.
+claim,181,1277,not verified,banned,4,137328,8807,232,2248,"In my opinion, this is interesting."
+claim,182,2859,not verified,active,104,255158,24990,10624,7577,I think this product is great.
+opinion,183,6929,verified,active,37,76256,7116,2811,646,Some people believe this fact.
+opinion,184,7792,not verified,banned,100,427153,22005,7858,12127,"In my opinion, this is interesting."
+claim,185,5713,not verified,active,32,361278,30850,12723,1155,I think this product is great.
+opinion,186,5675,not verified,banned,118,132723,2446,2702,1924,This might be a claim worth checking.
+opinion,187,2170,not verified,active,10,181360,11386,8649,718,This is a claim about health.
+opinion,188,9681,not verified,active,152,346874,57293,16783,7776,This is a claim about health.
+opinion,189,6308,not verified,active,46,418267,26797,8468,7961,"In my opinion, this is interesting."
+claim,190,3462,verified,active,38,289530,47905,12408,6307,Here is what I think about this.
+claim,191,1287,not verified,active,79,468270,51979,18206,5846,"In my opinion, this is interesting."
+opinion,192,6953,not verified,active,33,242634,42988,3928,2995,This video discusses a trending topic.
+opinion,193,5282,not verified,active,49,409400,48803,5064,1338,Experts say this might be true.
+opinion,194,2907,not verified,active,57,33787,528,792,398,I think this product is great.
+claim,195,2161,verified,active,108,21621,2990,849,605,"In my opinion, this is interesting."
+claim,196,1129,not verified,active,160,468780,8682,22524,5915,Experts say this might be true.
+opinion,197,7337,not verified,banned,123,77984,7456,2995,1971,This video discusses a trending topic.
+opinion,198,3363,not verified,banned,57,453008,84527,19436,11590,This might be a claim worth checking.
+opinion,199,9151,verified,active,146,438469,18147,13395,5459,This might be a claim worth checking.
+opinion,200,6983,not verified,active,14,296195,24902,12420,5833,Experts say this might be true.
+opinion,201,1143,not verified,active,147,311955,46379,12302,1456,"In my opinion, this is interesting."
+claim,202,9207,verified,active,146,30447,5408,592,149,This is a claim about health.
+claim,203,8469,not verified,active,142,128046,17603,3591,430,I think this product is great.
+opinion,204,1244,verified,active,138,215002,12696,8693,3927,I think this product is great.
+opinion,205,1926,verified,active,5,493253,68155,1606,6871,This might be a claim worth checking.
+claim,206,4178,not verified,active,146,161326,10708,6549,2798,This might be a claim worth checking.
+claim,207,3176,not verified,active,32,346189,50717,3363,5743,This is a claim about health.
+opinion,208,6002,not verified,active,25,116859,22351,3063,1379,Here is what I think about this.
+claim,209,1886,not verified,active,94,188490,27720,7653,3952,"In my opinion, this is interesting."
+claim,210,9532,not verified,banned,117,407688,70916,5478,9473,This might be a claim worth checking.
+opinion,211,4398,not verified,active,106,3471,36,45,8,This might be a claim worth checking.
+opinion,212,9497,not verified,active,120,238404,34887,4943,1860,This might be a claim worth checking.
+opinion,213,3654,not verified,active,7,120312,20166,5394,2643,I think this product is great.
+claim,214,8392,not verified,active,106,226876,4017,231,2909,"In my opinion, this is interesting."
+opinion,215,2371,not verified,active,110,139401,24479,6296,2864,This video discusses a trending topic.
+claim,216,8135,not verified,active,67,165937,9752,1416,1943,"In my opinion, this is interesting."
+claim,217,1320,not verified,active,123,46850,6390,2319,606,Experts say this might be true.
+opinion,218,5654,not verified,active,32,316364,51272,15118,2038,This is a claim about health.
+opinion,219,6300,verified,active,151,243306,33066,6140,2245,Here is what I think about this.
+opinion,220,7761,not verified,active,86,93808,2582,2450,1777,This might be a claim worth checking.
+opinion,221,7854,not verified,banned,152,137469,16950,3381,1942,This might be a claim worth checking.
+opinion,222,6505,verified,active,34,228981,26200,7358,5422,"In my opinion, this is interesting."
+claim,223,7553,verified,active,163,166597,30164,907,4310,Here is what I think about this.
+claim,224,5042,not verified,banned,18,53072,4606,137,911,This might be a claim worth checking.
+claim,225,8498,not verified,active,40,221178,15704,846,5138,Here is what I think about this.
+claim,226,7636,not verified,active,144,83820,12780,1908,887,This video discusses a trending topic.
+opinion,227,8362,verified,active,38,477746,42236,6928,6506,Some people believe this fact.
+claim,228,1011,not verified,active,153,23284,3091,732,511,This is a claim about health.
+opinion,229,1194,not verified,banned,116,454546,60375,22558,5824,Here is what I think about this.
+opinion,230,3537,verified,active,68,83369,14900,1661,1540,I think this product is great.
+opinion,231,3842,verified,active,107,287266,35549,8364,2065,Experts say this might be true.
+opinion,232,3229,not verified,active,87,392493,41372,8385,7376,I think this product is great.
+opinion,233,4009,not verified,active,4,332697,12105,14145,8690,This might be a claim worth checking.
+opinion,234,8984,not verified,active,77,212978,6813,9628,5605,This video discusses a trending topic.
+claim,235,3077,not verified,active,69,356932,14034,15701,7953,This video discusses a trending topic.
+opinion,236,8845,not verified,active,153,62812,2679,3061,1437,I think this product is great.
+claim,237,4867,not verified,active,156,270143,35441,634,4760,This is a claim about health.
+claim,238,5873,not verified,active,57,284580,42910,11995,5227,I think this product is great.
+opinion,239,9635,not verified,banned,8,305107,33774,11544,1751,"In my opinion, this is interesting."
+claim,240,1297,not verified,active,165,133168,22307,1625,1921,This might be a claim worth checking.
+opinion,241,6856,not verified,active,152,244809,48555,11716,3579,This might be a claim worth checking.
+opinion,242,2015,not verified,active,173,418495,69387,3457,12068,I think this product is great.
+opinion,243,2384,not verified,active,145,252164,35814,8648,3548,Experts say this might be true.
+claim,244,9745,not verified,active,88,371043,41250,4459,6449,Experts say this might be true.
+claim,245,3350,not verified,active,62,245317,23374,5430,4153,This might be a claim worth checking.
+opinion,246,2269,not verified,active,103,288345,7506,10449,5717,Some people believe this fact.
+opinion,247,2260,not verified,active,14,150787,12949,4312,3460,Experts say this might be true.
+opinion,248,8701,not verified,active,51,160381,29337,3519,1331,I think this product is great.
+opinion,249,9376,not verified,banned,44,146150,23899,2483,2455,Experts say this might be true.
+opinion,250,5563,not verified,active,168,449830,22963,18957,11302,This might be a claim worth checking.
+claim,251,7897,verified,active,84,5105,503,41,76,This is a claim about health.
+claim,252,6672,not verified,active,175,379810,62736,8384,3720,Here is what I think about this.
+opinion,253,6593,not verified,active,37,356992,8140,16166,7258,Experts say this might be true.
+claim,254,7155,not verified,active,160,264983,22153,11247,6641,"In my opinion, this is interesting."
+claim,255,6543,verified,active,160,68920,11843,1422,259,This is a claim about health.
+opinion,256,8240,not verified,active,136,305763,26522,11738,7261,Some people believe this fact.
+opinion,257,5683,not verified,active,69,42821,1059,1770,1070,"In my opinion, this is interesting."
+opinion,258,2881,not verified,active,82,125736,14218,5602,1876,I think this product is great.
+opinion,259,9713,not verified,active,9,406709,70657,11258,12011,Here is what I think about this.
+claim,260,4809,not verified,active,16,17069,2085,188,410,I think this product is great.
+opinion,261,6807,verified,active,75,7531,399,101,178,Here is what I think about this.
+opinion,262,5883,not verified,active,145,430267,35714,6664,9870,Here is what I think about this.
+claim,263,8206,not verified,active,151,138808,13259,4177,862,I think this product is great.
+opinion,264,5155,not verified,active,165,138782,16662,361,1121,"In my opinion, this is interesting."
+opinion,265,5673,verified,active,68,67155,10360,2160,1006,"In my opinion, this is interesting."
+opinion,266,2409,not verified,active,93,407191,11721,7676,3824,Here is what I think about this.
+opinion,267,6197,not verified,active,132,62424,11176,965,850,"In my opinion, this is interesting."
+opinion,268,8452,not verified,active,165,307747,3797,13570,8271,Here is what I think about this.
+claim,269,9718,not verified,active,22,416468,33446,9803,10445,This might be a claim worth checking.
+claim,270,3172,not verified,active,12,474013,7209,2681,9310,Here is what I think about this.
+opinion,271,1279,verified,active,27,132503,11218,5500,3448,This might be a claim worth checking.
+opinion,272,4977,not verified,active,27,205675,22604,685,4925,This is a claim about health.
+opinion,273,3669,verified,active,56,168553,18072,6170,2361,This video discusses a trending topic.
+opinion,274,8825,not verified,active,35,354717,14709,13806,2706,This is a claim about health.
+opinion,275,4981,not verified,active,166,140629,18660,2570,2305,I think this product is great.
+opinion,276,5769,verified,active,97,468187,8665,19389,10587,This video discusses a trending topic.
+opinion,277,6247,not verified,active,16,365446,56557,9599,5196,Experts say this might be true.
+opinion,278,5427,not verified,banned,67,131234,24916,3110,2712,I think this product is great.
+opinion,279,7135,not verified,active,112,427958,31906,1380,1986,Some people believe this fact.
+opinion,280,6573,not verified,active,82,19675,2130,299,451,This is a claim about health.
+opinion,281,5131,not verified,active,56,73997,6067,3449,1831,"In my opinion, this is interesting."
+claim,282,8189,not verified,active,127,148087,1669,2991,3227,This is a claim about health.
+claim,283,5535,not verified,active,133,443273,36931,12317,12891,"In my opinion, this is interesting."
+claim,284,3776,not verified,active,171,425807,68310,11526,10707,This video discusses a trending topic.
+opinion,285,8697,verified,active,136,486799,59992,14570,13283,Some people believe this fact.
+claim,286,9386,not verified,active,27,231390,6765,926,6511,This video discusses a trending topic.
+opinion,287,1662,not verified,active,143,140905,24088,2641,3443,Some people believe this fact.
+opinion,288,9671,not verified,active,119,270040,29949,9838,5638,This is a claim about health.
+claim,289,9044,not verified,active,138,426188,72421,4614,920,"In my opinion, this is interesting."
+opinion,290,5218,not verified,active,151,311877,37500,3422,4691,This video discusses a trending topic.
+claim,291,6060,verified,active,27,251435,29252,375,4523,Some people believe this fact.
+claim,292,6874,not verified,active,81,41800,1253,937,439,Here is what I think about this.
+opinion,293,6581,not verified,active,70,96044,4014,4250,1047,I think this product is great.
+claim,294,3014,not verified,active,175,267491,52076,947,7733,I think this product is great.
+claim,295,4789,verified,active,14,190135,10155,1970,5127,This video discusses a trending topic.
+opinion,296,8148,not verified,active,34,489066,95717,7920,12606,"In my opinion, this is interesting."
+opinion,297,8766,not verified,active,130,133715,14850,4928,1787,Here is what I think about this.
+claim,298,3364,not verified,active,98,302929,10844,9812,722,This video discusses a trending topic.
+opinion,299,4629,not verified,active,94,280825,8106,6004,1192,This is a claim about health.
+claim,300,6919,not verified,active,143,443242,22022,16929,4761,Some people believe this fact.
+claim,301,6675,not verified,active,33,366008,68030,11299,893,This might be a claim worth checking.
+opinion,302,9872,verified,banned,80,409108,36283,18371,1014,This is a claim about health.
+opinion,303,7638,not verified,active,22,309443,26343,12712,8560,I think this product is great.
+opinion,304,5651,not verified,active,148,17073,1186,228,371,Some people believe this fact.
+opinion,305,1609,not verified,active,62,364448,13827,5211,3881,This video discusses a trending topic.
+opinion,306,8940,not verified,active,136,30682,3150,219,175,This is a claim about health.
+opinion,307,4866,not verified,active,162,228870,7943,4007,3736,Experts say this might be true.
+claim,308,1371,not verified,active,95,227966,38467,11393,490,This might be a claim worth checking.
+opinion,309,7998,not verified,active,45,386446,31060,8069,10926,"In my opinion, this is interesting."
+claim,310,1615,verified,active,132,407505,33094,4810,5548,Here is what I think about this.
+opinion,311,7911,not verified,active,62,115359,11542,4425,1530,Here is what I think about this.
+claim,312,7010,not verified,active,153,401143,37861,11063,5189,"In my opinion, this is interesting."
+claim,313,3253,verified,active,33,441546,87877,3678,1740,Experts say this might be true.
+opinion,314,5942,not verified,active,7,66707,7579,1311,1325,I think this product is great.
+opinion,315,1864,not verified,active,164,251351,6725,5356,5661,Some people believe this fact.
+opinion,316,2268,not verified,active,12,470670,58978,17856,9851,"In my opinion, this is interesting."
+opinion,317,8454,not verified,active,91,238511,9254,480,1401,Experts say this might be true.
+claim,318,9976,not verified,active,132,235718,3742,3342,4291,This video discusses a trending topic.
+claim,319,5571,verified,active,128,65428,12721,1724,1174,This might be a claim worth checking.
+claim,320,6229,not verified,active,13,50601,7942,717,1331,Here is what I think about this.
+opinion,321,3237,not verified,active,161,470681,92357,14964,5937,This might be a claim worth checking.
+opinion,322,5054,verified,active,58,395755,39890,9740,4907,Experts say this might be true.
+opinion,323,1935,not verified,active,85,495479,55062,9277,9572,This might be a claim worth checking.
+claim,324,7394,not verified,active,139,111487,4680,5296,2199,I think this product is great.
+opinion,325,8891,not verified,banned,101,153741,8749,4915,2327,I think this product is great.
+opinion,326,1325,not verified,active,151,464184,78597,3419,6686,This is a claim about health.
+opinion,327,8774,not verified,active,75,413860,32146,11772,6553,"In my opinion, this is interesting."
+opinion,328,4861,not verified,active,158,411961,68836,16171,10756,This is a claim about health.
+opinion,329,2985,not verified,active,117,251924,36456,8997,3756,This might be a claim worth checking.
+claim,330,5932,not verified,active,9,259153,11315,2444,7338,Here is what I think about this.
+claim,331,5603,not verified,active,82,290372,30899,14126,4678,Experts say this might be true.
+opinion,332,3778,not verified,active,146,249430,34596,5734,7128,Some people believe this fact.
+claim,333,9832,verified,active,99,427737,23378,3760,10829,This might be a claim worth checking.
+claim,334,8754,verified,banned,6,122788,20607,1206,1491,Some people believe this fact.
+claim,335,5078,not verified,banned,6,97239,11038,565,2545,I think this product is great.
+claim,336,2367,not verified,active,105,26928,1114,1087,136,Some people believe this fact.
+opinion,337,5042,not verified,active,42,280466,33871,1957,7825,Some people believe this fact.
+opinion,338,3575,not verified,active,19,450930,90161,3215,8877,Here is what I think about this.
+opinion,339,7754,not verified,active,103,350040,13511,14937,1233,Some people believe this fact.
+claim,340,2581,not verified,active,105,62292,10289,1114,1248,This might be a claim worth checking.
+opinion,341,2986,verified,active,126,29055,1434,72,850,Experts say this might be true.
+opinion,342,3240,not verified,active,54,305035,48394,1080,1206,Some people believe this fact.
+claim,343,4966,verified,active,54,81912,12251,652,1436,This video discusses a trending topic.
+opinion,344,8604,not verified,active,166,137660,9236,1577,3157,Some people believe this fact.
+claim,345,9320,verified,active,126,352680,25359,11847,8706,Some people believe this fact.
+opinion,346,6968,not verified,active,168,268448,43107,2337,3647,This is a claim about health.
+opinion,347,8493,verified,active,65,7345,717,50,56,Experts say this might be true.
+claim,348,5103,not verified,active,118,160372,23872,6169,510,This might be a claim worth checking.
+claim,349,3076,not verified,banned,64,417475,15912,14144,7611,I think this product is great.
+opinion,350,6231,not verified,active,9,91006,15651,2032,1336,This is a claim about health.
+opinion,351,3994,verified,active,157,481769,69889,13449,13761,This might be a claim worth checking.
+opinion,352,4744,not verified,active,94,408568,74489,6654,1510,"In my opinion, this is interesting."
+opinion,353,6594,not verified,active,16,129350,4546,3187,2741,Experts say this might be true.
+claim,354,8531,not verified,active,88,164437,20171,4246,443,This video discusses a trending topic.
+claim,355,8371,not verified,active,135,281590,34870,5624,1914,Experts say this might be true.
+opinion,356,2644,verified,active,132,264480,20406,12013,3887,"In my opinion, this is interesting."
+claim,357,4144,verified,banned,64,324176,31480,579,4777,"In my opinion, this is interesting."
+opinion,358,1242,not verified,active,151,206487,3554,8120,4377,"In my opinion, this is interesting."
+opinion,359,5085,not verified,active,81,97852,14845,694,2689,Here is what I think about this.
+opinion,360,8954,verified,active,151,492092,56281,19722,9789,I think this product is great.
+claim,361,8269,not verified,banned,140,138593,2906,4321,3977,Some people believe this fact.
+opinion,362,8130,not verified,active,60,202779,28255,8581,5411,Experts say this might be true.
+opinion,363,7828,not verified,active,122,154553,15252,893,2838,This might be a claim worth checking.
+opinion,364,9362,not verified,active,169,280618,4643,7966,7112,Here is what I think about this.
+opinion,365,9844,not verified,active,135,177832,34539,4544,3555,This might be a claim worth checking.
+claim,366,7331,not verified,active,67,317862,60499,11316,1334,Some people believe this fact.
+opinion,367,4512,verified,active,15,306773,32963,8338,6974,Some people believe this fact.
+opinion,368,2499,verified,banned,84,45232,1257,1243,210,This video discusses a trending topic.
+claim,369,3158,not verified,active,175,348688,53481,7688,6497,"In my opinion, this is interesting."
+claim,370,6162,not verified,active,162,460385,47634,7427,9978,I think this product is great.
+claim,371,5039,not verified,banned,166,259013,17474,6379,1000,This video discusses a trending topic.
+claim,372,3035,not verified,active,141,312813,32335,2129,2647,This is a claim about health.
+claim,373,8977,not verified,active,151,209093,22846,10060,5779,Here is what I think about this.
+opinion,374,1857,not verified,active,54,331328,38737,11929,6380,Here is what I think about this.
+claim,375,4823,verified,active,119,179017,16797,8533,1592,I think this product is great.
+claim,376,7770,verified,active,28,13140,1643,159,280,Some people believe this fact.
+opinion,377,1298,not verified,active,36,388612,71722,17133,7270,This might be a claim worth checking.
+claim,378,8244,not verified,active,54,83457,6578,3390,1338,Here is what I think about this.
+opinion,379,1923,verified,active,114,14357,2123,490,421,I think this product is great.
+claim,380,5232,not verified,active,84,111672,20094,3531,2360,Here is what I think about this.
+claim,381,5306,not verified,active,159,330817,31968,5462,4139,Here is what I think about this.
+opinion,382,3799,not verified,active,168,121673,11468,4989,2969,"In my opinion, this is interesting."
+opinion,383,7578,verified,banned,44,65633,8164,1678,1756,This is a claim about health.
+opinion,384,5875,verified,active,23,208015,25454,930,1145,"In my opinion, this is interesting."
+opinion,385,6326,not verified,active,44,96111,15690,1569,731,This is a claim about health.
+opinion,386,7582,verified,active,143,340402,34221,15940,2741,Here is what I think about this.
+claim,387,2802,not verified,active,115,406140,80928,17335,8672,This video discusses a trending topic.
+claim,388,3657,not verified,active,107,69286,1475,3402,1308,This might be a claim worth checking.
+opinion,389,4346,verified,banned,19,93269,988,2963,1803,Some people believe this fact.
+opinion,390,3949,not verified,active,122,258635,34046,3395,7330,Here is what I think about this.
+opinion,391,1941,not verified,active,139,74071,4940,665,1757,This is a claim about health.
+opinion,392,2907,not verified,active,171,450542,25082,4576,2515,This is a claim about health.
+claim,393,5837,not verified,active,131,221095,15313,435,2593,This is a claim about health.
+opinion,394,9105,not verified,active,132,30651,1797,617,434,Here is what I think about this.
+claim,395,2243,not verified,active,62,70202,1112,728,918,I think this product is great.
+opinion,396,6696,not verified,active,50,48777,9491,1032,1011,This video discusses a trending topic.
+opinion,397,2466,not verified,active,31,148066,7690,6931,3993,I think this product is great.
+opinion,398,4957,not verified,active,99,329407,49235,7278,3481,Some people believe this fact.
+opinion,399,2966,verified,active,12,190706,29539,8395,3328,Here is what I think about this.
+opinion,400,1375,verified,active,60,100158,18685,3071,2414,This is a claim about health.
+claim,401,1262,not verified,active,23,272944,4313,3578,3726,This video discusses a trending topic.
+opinion,402,5362,verified,active,30,299967,52700,5530,2011,This video discusses a trending topic.
+opinion,403,7502,verified,active,36,239647,26402,1225,3666,Experts say this might be true.
+opinion,404,8833,not verified,active,10,326022,42442,5653,1156,Some people believe this fact.
+claim,405,2893,not verified,active,179,280852,37198,9604,7972,This might be a claim worth checking.
+opinion,406,9106,not verified,active,81,143891,23851,652,589,This might be a claim worth checking.
+claim,407,2652,not verified,active,147,205977,15107,2279,2940,This video discusses a trending topic.
+claim,408,6540,not verified,active,89,63870,9534,1257,1075,Here is what I think about this.
+opinion,409,4892,not verified,active,90,9283,1025,455,274,This is a claim about health.
+claim,410,1599,not verified,active,175,161645,25983,6378,1074,This is a claim about health.
+claim,411,5815,not verified,active,71,340851,67557,12591,1773,This video discusses a trending topic.
+opinion,412,2912,not verified,active,162,424149,20411,2838,951,I think this product is great.
+opinion,413,9792,not verified,active,174,5774,1148,226,36,Some people believe this fact.
+opinion,414,9572,not verified,active,89,203127,5497,8019,1585,This is a claim about health.
+opinion,415,5213,not verified,active,103,142055,1483,4326,2792,This video discusses a trending topic.
+opinion,416,4637,not verified,banned,10,96468,1774,4777,786,This is a claim about health.
+claim,417,6599,not verified,active,79,358478,26863,6071,922,This might be a claim worth checking.
+claim,418,7448,not verified,active,89,280277,36506,13207,7047,This video discusses a trending topic.
+opinion,419,9557,not verified,active,45,408155,9434,18702,4994,Some people believe this fact.
+opinion,420,8382,verified,banned,131,781,8,1,9,This video discusses a trending topic.
+opinion,421,9982,not verified,active,111,114586,21547,2641,1199,Experts say this might be true.
+opinion,422,4569,not verified,active,154,449916,74760,21991,13187,This video discusses a trending topic.
+claim,423,8707,not verified,active,154,289768,47448,1753,1959,This video discusses a trending topic.
+opinion,424,1746,not verified,active,19,6823,1214,189,185,Here is what I think about this.
+claim,425,9504,not verified,banned,135,18489,2644,905,439,This might be a claim worth checking.
+opinion,426,5633,verified,banned,150,171033,5103,4826,708,Some people believe this fact.
+opinion,427,1920,not verified,active,23,291262,24998,3000,8629,Here is what I think about this.
+opinion,428,8008,not verified,banned,60,100417,14801,2965,963,This video discusses a trending topic.
+claim,429,3381,not verified,active,161,81816,5175,901,389,Some people believe this fact.
+claim,430,4618,not verified,active,112,153335,21560,4058,3867,Experts say this might be true.
+claim,431,9989,verified,active,141,275709,4040,1276,6006,Some people believe this fact.
+opinion,432,5443,not verified,active,145,151426,10322,4644,2919,This is a claim about health.
+opinion,433,1272,not verified,active,137,174023,19896,4580,1108,Here is what I think about this.
+claim,434,2773,not verified,active,30,353323,45966,13167,5440,Some people believe this fact.
+claim,435,3547,verified,active,53,23648,2829,754,564,This might be a claim worth checking.
+opinion,436,4164,not verified,active,7,443945,63294,12399,4662,Experts say this might be true.
+claim,437,5780,verified,active,7,41971,468,1460,450,"In my opinion, this is interesting."
+opinion,438,1946,not verified,active,96,18658,544,150,38,This video discusses a trending topic.
+opinion,439,1506,verified,active,98,21253,3721,641,146,Some people believe this fact.
+claim,440,7719,not verified,active,10,457382,63819,4314,12125,This video discusses a trending topic.
+claim,441,9435,not verified,banned,66,179635,5650,8326,2581,I think this product is great.
+opinion,442,9697,not verified,active,140,157462,26767,684,4654,This is a claim about health.
+claim,443,7360,not verified,active,40,350808,19653,7748,4588,Here is what I think about this.
+claim,444,8657,not verified,active,113,182650,18423,6409,4022,This is a claim about health.
+opinion,445,4590,not verified,active,114,210097,7896,4925,2078,I think this product is great.
+opinion,446,2192,verified,active,83,103850,15050,572,1265,I think this product is great.
+opinion,447,2464,verified,active,138,425874,58217,11973,3126,Here is what I think about this.
+opinion,448,1390,not verified,active,106,137924,6911,4474,1616,Some people believe this fact.
+claim,449,6615,not verified,banned,155,226058,39344,8021,3915,I think this product is great.
+claim,450,7106,not verified,active,75,133623,11524,2577,3977,"In my opinion, this is interesting."
+opinion,451,9864,not verified,active,51,334091,21908,9561,6881,This video discusses a trending topic.
+opinion,452,3560,not verified,active,38,61001,2375,1408,462,This video discusses a trending topic.
+opinion,453,6867,verified,active,128,180231,10916,6115,587,Experts say this might be true.
+opinion,454,2211,not verified,active,70,122775,1741,3633,679,This might be a claim worth checking.
+claim,455,2539,not verified,active,80,444923,53755,11907,7898,I think this product is great.
+opinion,456,1643,not verified,banned,107,33243,5652,439,778,I think this product is great.
+claim,457,9693,not verified,active,171,152872,17474,167,4331,"In my opinion, this is interesting."
+opinion,458,9921,verified,active,124,338083,17466,3221,825,This is a claim about health.
+claim,459,2283,verified,active,121,319972,5246,2155,5323,This is a claim about health.
+claim,460,8680,not verified,active,116,261716,13289,6020,3973,This video discusses a trending topic.
+claim,461,8345,verified,active,12,400455,35665,12414,8157,This video discusses a trending topic.
+opinion,462,5386,not verified,active,151,268854,41491,3076,4750,Some people believe this fact.
+opinion,463,1919,not verified,active,166,414600,18943,19491,8804,Here is what I think about this.
+opinion,464,3339,not verified,active,142,414254,60796,549,8461,This might be a claim worth checking.
+opinion,465,9947,not verified,banned,93,171918,30037,6677,907,"In my opinion, this is interesting."
+claim,466,6930,not verified,active,4,219055,21084,6929,5343,Here is what I think about this.
+claim,467,6402,not verified,banned,120,461037,76565,8899,2512,Here is what I think about this.
+opinion,468,6663,not verified,active,15,300135,34631,1042,6470,Experts say this might be true.
+claim,469,6275,not verified,active,162,210129,27536,6670,2868,Here is what I think about this.
+opinion,470,1507,not verified,active,97,400187,44017,7961,6558,Experts say this might be true.
+claim,471,2436,not verified,active,146,422355,41391,19798,11527,Here is what I think about this.
+opinion,472,9750,not verified,active,34,347589,18972,9578,9355,"In my opinion, this is interesting."
+claim,473,8354,not verified,active,34,208139,14071,9791,5182,Experts say this might be true.
+opinion,474,5516,not verified,active,126,80257,5224,947,1306,This is a claim about health.
+opinion,475,4622,verified,active,13,477958,55932,17474,10808,Experts say this might be true.
+opinion,476,5399,not verified,active,12,299855,9832,9369,4905,Experts say this might be true.
+claim,477,6037,not verified,active,17,6530,1202,243,172,"In my opinion, this is interesting."
+opinion,478,9111,verified,active,19,273260,40148,3147,3628,"In my opinion, this is interesting."
+opinion,479,4715,not verified,active,170,65794,5676,2209,1918,Experts say this might be true.
+opinion,480,8837,not verified,active,148,393498,15794,9996,11059,This might be a claim worth checking.
+opinion,481,2301,not verified,active,155,210545,37388,7874,4793,I think this product is great.
+opinion,482,8370,not verified,active,61,132970,22141,2263,1306,This might be a claim worth checking.
+opinion,483,6185,verified,active,80,4135,608,184,23,"In my opinion, this is interesting."
+opinion,484,3155,verified,active,126,399845,24628,2051,10368,This might be a claim worth checking.
+opinion,485,7411,not verified,active,116,371616,32131,15069,2463,This might be a claim worth checking.
+opinion,486,7365,not verified,active,24,387291,11433,16732,10038,Some people believe this fact.
+claim,487,1692,not verified,active,160,478336,21963,19633,7529,Some people believe this fact.
+claim,488,2478,not verified,active,174,250870,39831,6553,3357,This is a claim about health.
+opinion,489,7396,not verified,active,34,89087,12993,2002,2431,Here is what I think about this.
+opinion,490,9448,not verified,active,176,196103,24074,9769,3707,Experts say this might be true.
+opinion,491,1441,not verified,active,115,295524,53249,3614,5362,I think this product is great.
+opinion,492,3646,not verified,active,122,392095,47373,10899,6918,This is a claim about health.
+claim,493,6209,not verified,active,151,279215,27565,9455,3460,Experts say this might be true.
+claim,494,7533,not verified,active,124,20074,1498,709,481,This might be a claim worth checking.
+opinion,495,5677,not verified,active,34,221796,41849,2439,2013,"In my opinion, this is interesting."
+claim,496,8211,verified,active,121,67843,1744,2241,1919,Some people believe this fact.
+opinion,497,3645,not verified,active,41,39901,7456,1639,1078,This video discusses a trending topic.
+claim,498,9210,verified,active,14,273349,45669,943,3129,I think this product is great.
+opinion,499,8933,not verified,active,177,448877,15570,20497,10066,This might be a claim worth checking.
+opinion,500,6476,not verified,active,20,386805,45390,946,6981,This video discusses a trending topic.
