@@ -18,4 +18,48 @@ The goal is to prepare the data for a future machine learning model by performin
 ---
 
 ## 📁 Project Structure
+tiktok_project/
+├── data/
+│     └── tiktok_dummy_dataset.csv
+├── notebook/
+│     └── tiktok_eda.ipynb
+├── executive_summary.md
+└── README.md
+
+---
+
+## 📊 Notebook
+
+Full exploratory analysis is available here:  
+👉 **notebook/tiktok_eda.ipynb**
+
+---
+
+## 📝 Executive Summary
+
+High-level project summary and key findings:  
+👉 **executive_summary.md**
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Pandas  
+- NumPy  
+- Jupyter Notebook  
+- Exploratory Data Analysis (EDA)  
+
+---
+
+## 🎯 Purpose of This Project
+
+This project serves as a foundation for:
+
+- Feature engineering  
+- Hypothesis testing  
+- Building a claim classification model  
+- Understanding user behavior and content patterns  
+
+It is part of a data science portfolio demonstrating skills in **EDA, data cleaning, feature creation, and analytical storytelling**.
 
